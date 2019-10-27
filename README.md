@@ -13,7 +13,7 @@ The goal of our project is to design and manufacture the scaled-down, proof-of-c
 * Electrical Engineer - Ryan Chen
 * Mechanical Engineer - Yutong (Irina) Zhu
 
-<img src="https://github.com/Ryan-Zeyuan-Chen/traffic-cone-deployment-robot/blob/master/Images/Team%20Moments%202.jpg"/>
+<img src="Images/Team Moments 2.jpg"/>
 
 # Robot
 The robot was designed and built to exceed the competitions requirements with the following features:
@@ -22,4 +22,4 @@ The robot was designed and built to exceed the competitions requirements with th
 * Fast and accurate driving with lane detection
 * Accurate and flexible cone deployment via omnidirectional motion supported by Mecanum wheels.
 
-<img src="https://github.com/Ryan-Zeyuan-Chen/traffic-cone-deployment-robot/blob/master/Images/Mr.%20Krabs.jpg"/>
+<img src="Images/Mr Krabs.jpg"/>

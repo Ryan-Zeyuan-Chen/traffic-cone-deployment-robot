@@ -5,7 +5,7 @@ This website contains a collection of content which is intended to showcase our 
 # [AER201 Engineering Design](Website/AER201 Engineering Design/README.md)
 This course addresses open-ended and multidisciplinary design problems, with the objective of integrating design, engineering analysis, and hardware implementation. The emphasis in this course is not on studying in a classroom from a list of topics, but rather it is a project course, although the fundamentals of design as well as some practical technical notes will also be taught through weekly lectures. After a series of lectures students work in teams on a realistic project. The projects are open-ended design problems relating to fields of electromechanical, computer hardware and software, and instrumentation and interfacing.
 
-# Project
+# [Project](Website/Project/README.md)
 The goal of our project is to design and manufacture the scaled-down, proof-of-concept prototype of a mobile platform that can travel along a designated lane and deploy traffic cones. 
 
 # Team 

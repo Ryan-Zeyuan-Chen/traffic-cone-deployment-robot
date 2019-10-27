@@ -1,10 +1,10 @@
 <link rel="stylesheet" type="text/css" href="theme.css">
 
 <div class="sidenav">
-  <a href=".">Home</a>
-  <a href="Website/AER201_Engineering_Design">AER201</a>
-  <a href="Website/Project">Project</a>
-  <a href="Website/Team">Team</a>
+  <a href="../../">Home</a>
+  <a href="../../Website/AER201_Engineering_Design">AER201</a>
+  <a href="../../Website/Project">Project</a>
+  <a href="../../Website/Team">Team</a>
 </div>
 
 # Hongyu (Charlie) Chen

@@ -10,8 +10,8 @@ The goal of our project is to design and manufacture the scaled-down, proof-of-c
 
 # [Team](Website/Team)
 * Embedded Software Engineer - Hongyu (Charlie) Chen
-* Electrical Engineer - Ryan Chen
 * Mechanical Engineer - Yutong (Irina) Zhu
+* Electrical Engineer - Ryan Chen
 
 <img src="Images/Team Moments 2.jpg"/>
 

@@ -1,5 +1,11 @@
 <link rel="stylesheet" type="text/css" href="theme.css">
 
+<div class="sidenav">
+  <a href="Website/AER201_Engineering_Design">AER201</a>
+  <a href="Website/Project">Project</a>
+  <a href="Website/Team">Team</a>
+</div>
+
 Welcome to the traffic-cone-deployment-robot website!
 
 This website contains a collection of content which is intended to showcase our design process and achievements of building a traffic cone deployment robot for the Engineering Design course AER201.

@@ -1,12 +1,3 @@
-<link rel="stylesheet" type="text/css" href="theme.css">
-
-<div class="sidenav">
-  <a href="../../">Home</a>
-  <a href="../../Website/AER201_Engineering_Design">AER201</a>
-  <a href="../../Website/Project">Project</a>
-  <a href="../../Website/Team">Team</a>
-</div>
-
 Working on interesting and challenging design projects will provide us with extensive knowledge, experience as well as some of the most unforgettable memories of our undergraduate study. These projects have been carefully defined to match the level of knowledge and capabilities of second-year students, yet to offer us challenge, innovation, and a thorough view of real-life engineering problems. The multi-disciplinary nature of these projects ensures that we will learn a broad range of mechanical, electrical, and computer implementation.
 
 After completing this project, we were able to improve ourselves in the following aspects:

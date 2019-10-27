@@ -1,12 +1,3 @@
-<link rel="stylesheet" type="text/css" href="theme.css">
-
-<div class="sidenav">
-  <a href="../../">Home</a>
-  <a href="../../Website/AER201_Engineering_Design">AER201</a>
-  <a href="../../Website/Project">Project</a>
-  <a href="../../Website/Team">Team</a>
-</div>
-
 # Hongyu (Charlie) Chen
 ### Embedded Software Engineer (Processing and Control)
 Hongyu is an Engineering Science student majoring in [Machine Intelligence](https://engsci.utoronto.ca/explore_our_program/majors/machine-intelligence/). As the embedded software engineer for the team, she is in charge of developing the embedded software for the robotic system. Hongyu implemented algorithms for robot operation as well as keypad and display interface for the system in C. She also accomplished extra design features such as real-time date/time display, permanent operation logs and PC interface. 

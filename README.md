@@ -1,38 +1,6 @@
-<style>
-.sidenav {
-  height: 100%;
-  width: 160px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  padding-top: 20px;
-}
-
-.sidenav a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #818181;
-  display: block;
-}
-
-.sidenav a:hover {
-  color: #f1f1f1;
-}
-</style>
-
 Welcome to the traffic-cone-deployment-robot website!
 
 This website contains a collection of content which is intended to showcase our design process and achievements of building a traffic cone deployment robot for the Engineering Design course AER201.
-
-<div class="sidenav">
-  <a src="Website/AER201_Engineering_Design/README.md">AER201 Engineering Design</a>
-  <a src="Website/Project/README.md">Project</a>
-  <a src="Website/Team/README.md">Team</a>
-</div>
 
 # [AER201 Engineering Design](Website/AER201_Engineering_Design/README.md)
 This course addresses open-ended and multidisciplinary design problems, with the objective of integrating design, engineering analysis, and hardware implementation. The emphasis in this course is not on studying in a classroom from a list of topics, but rather it is a project course, although the fundamentals of design as well as some practical technical notes will also be taught through weekly lectures. After a series of lectures students work in teams on a realistic project. The projects are open-ended design problems relating to fields of electromechanical, computer hardware and software, and instrumentation and interfacing.

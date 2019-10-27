@@ -3,3 +3,7 @@ email: ryanchen0614@gmail.com
 
 theme: jekyll-theme-slate
 show_downloads: true
+
+docs:
+  - title: Home
+    url: /

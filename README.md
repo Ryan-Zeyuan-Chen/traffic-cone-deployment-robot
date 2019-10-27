@@ -8,7 +8,7 @@ This course addresses open-ended and multidisciplinary design problems, with the
 # [Project](Website/Project/README.md)
 The goal of our project is to design and manufacture the scaled-down, proof-of-concept prototype of a mobile platform that can travel along a designated lane and deploy traffic cones. 
 
-# Team 
+# [Team](Website/Team/README.md)
 * Embedded Software Engineer - Hongyu (Charlie) Chen
 * Electrical Engineer - Ryan Chen
 * Mechanical Engineer - Yutong (Irina) Zhu

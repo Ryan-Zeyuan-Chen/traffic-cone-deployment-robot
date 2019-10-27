@@ -22,4 +22,4 @@ The robot was designed and built to exceed the competitions requirements with th
 * Fast and accurate driving with lane detection
 * Accurate and flexible cone deployment via omnidirectional motion supported by Mecanum wheels.
 
-<img src="Images/Mr Krabs.jpg"/>
+<img src="Images/Mr. Krabs.jpg"/>

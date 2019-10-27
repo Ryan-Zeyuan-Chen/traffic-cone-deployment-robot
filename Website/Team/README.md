@@ -4,7 +4,7 @@ Hongyu is an Engineering Science student majoring in [Machine Intelligence](http
 
 # Ryan Chen
 
-<img src="https://github.com/Ryan-Zeyuan-Chen/traffic-cone-deployment-robot/blob/master/Images/Team/Ryan_Square.jpg" width="200" height="200"/>
+<img src="Images/Team/Ryan_Square.jpg" width="200" height="200"/>
 
 ### Electrical Engineer (Instrumentation and Interfacing)
 Ryan is an Engineering Science student majoring in [Robotics Engineering](https://engsci.utoronto.ca/explore_our_program/majors/roboticsengineeringoption/). As the electrical engineer for the team, he is responsible for constructing the digital and analog interfacing electronics to connect the sensors and actuators to the microcontroller board. He also designed and constructed the power distribution and motor driver circuits for the robot. Furthermore, Ryan calibrated the input/output signals from all of the sensors embedded in the robot. 

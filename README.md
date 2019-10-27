@@ -22,4 +22,4 @@ The robot was designed and built to exceed the competitions requirements with th
 * Fast and accurate driving with lane detection
 * Accurate and flexible cone deployment via omnidirectional motion supported by Mecanum wheels.
 
-(https://github.com/Ryan-Zeyuan-Chen/traffic-cone-deployment-robot/blob/master/Images/Mr.%20Krabs.jpg)
+<img src="https://github.com/Ryan-Zeyuan-Chen/traffic-cone-deployment-robot/blob/master/Images/Mr.%20Krabs.jpg" />

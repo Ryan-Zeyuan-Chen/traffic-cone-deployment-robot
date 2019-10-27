@@ -1,13 +1,3 @@
-<link rel="stylesheet" type="text/css" href="theme.css">
-
-<div class="sidenav">
-  <a href="../../">Home</a>
-  <a href="../../Website/AER201_Engineering_Design">AER201</a>
-  <a href="../../Website/Project">Project</a>
-  <a href="../../Website/Team">Team</a>
-</div>
-
-
 # Specifications
 The machine is expected to deploy a number of small size traffic cones within a designed lane. The lane is 25 cm wide and 400 cm long, and it is defined by two lines along the length made of black hockey tape with a width of 2 cm. The deployment of the cones during the operation depends on whether the machine detects a "hole" or "crack" on the ground as well as their distance from each other. Each hole is represented by a square mark on the floor, made of black hockey tape and with a length of 4 cm, whose center is on the lane centerline. Each crack is represented by a lateral line normal to the lane borderlines with a length of 15 cm and width of 2 cm. 
 

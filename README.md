@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="theme.css">
+
 Welcome to the traffic-cone-deployment-robot website!
 
 This website contains a collection of content which is intended to showcase our design process and achievements of building a traffic cone deployment robot for the Engineering Design course AER201.
